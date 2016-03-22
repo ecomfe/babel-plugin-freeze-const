@@ -1,0 +1,14 @@
+{
+    "name": "babel-plugin-freeze-const",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "contributors": [
+        {
+            "name": "zongyu",
+            "email": "liuxuanzy@qq.com"
+        }
+    ],
+    "dependencies": {
+        "babel-template": "^6.7.0"
+    }
+}
